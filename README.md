@@ -4,7 +4,7 @@
 
 (seeing such an amazing tool fills you with DETERMINATION.)
 
-<img src="images/ezgif.com-video-to-gif.gif" alt=""ezgif.com-video-to-gif.gif>
+<img src="images/ezgif.com-video-to-gif.gif" alt="ezgif.com-video-to-gif.gif">
 
 <img src="images/flowey.gif" alt="Flowey"/>
 
